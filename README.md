@@ -7,8 +7,8 @@ The dashboard provides a clear view of:
 - Sales by individual outlet
 - Sales Share by outlet size
 - Top items categories
-- Key business insights using visuals and slicers
-
+- Key business insights using visuals and slicers.
+  
 ## 🧰 Tools & Features Used
 - ✔️ Microsoft Excel
 - 📌 PivotTable
